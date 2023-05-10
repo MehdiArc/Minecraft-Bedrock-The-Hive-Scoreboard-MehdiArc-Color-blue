@@ -1,9 +1,11 @@
-# Minecraft Bedrock The Hive Scoreboard @ItzGladiator - Color : Blue
+# Minecraft Bedrock The Hive Scoreboard @MehdiArc - Color : Blue
 
-[The Hive Edited ](https://rubika.ir/ItzGladiator) !
+[The Hive Edited ]() !
 
   > <b>Picture</b><br><br>
 
   ![](image/image.png)
 
-• Publishing without obtaining permission from the prosecutor's manufacturer
+• Publishing without obtaining permission from the prosecutor's manufacturer 
+
+© **MehdiArc**
